@@ -1,0 +1,29 @@
+.form-signin {
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: auto;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.but:hover, #equal:hover, #clear:hover{
+    background: #e4ab03;
+    color: white;
+}
+
+#history {
+    max-height: 40vh;
+    overflow: auto;
+}
+
+#equal {
+    background-color: #f7ba06;
+    color: white;
+}
+
+#clear {
+    color: #f7ba06;
+}
